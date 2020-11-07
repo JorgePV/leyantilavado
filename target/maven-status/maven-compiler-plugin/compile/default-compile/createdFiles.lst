@@ -1,0 +1,13 @@
+com\ph\config\SunnelRestWSImpl$1.class
+com\ph\dao\ClienteDao.class
+com\ph\config\SunnelRestWSImpl.class
+com\ph\dao\UsuarioDao.class
+com\ph\model\Cliente.class
+com\ph\config\Mail.class
+com\ph\config\ConfigurationLoader.class
+com\ph\config\Conexion.class
+com\ph\config\GenXml.class
+com\ph\config\Mail$1.class
+com\ph\config\Utils.class
+com\ph\controller\HomeController.class
+com\ph\dao\LoginDao.class
